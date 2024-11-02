@@ -1,5 +1,5 @@
 treamlit==1.37.1
 ultralytics==8.3.27
 opencv-python==4.6.0.66 
-numpy==1.23.1  
-Pillow==9.1.0
+numpy==1.26.4 
+Pillow==10.4.0
