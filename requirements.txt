@@ -1,4 +1,4 @@
-treamlit==1.37.1
+streamlit==1.37.1
 ultralytics==8.3.27
 opencv-python==4.6.0.66 
 numpy==1.26.4 
